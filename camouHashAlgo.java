@@ -1,4 +1,4 @@
-package programmers;
+package algo_java;
 
 import java.util.HashMap;
 import java.util.Map.Entry;
